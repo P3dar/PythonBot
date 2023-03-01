@@ -1,7 +1,7 @@
 # python_bot
 
 ## Overview
-This is a simple telegram bot made in Python with a simple dedicated GUI.
+This is a simple telegram webhook demonstation made in Python with a dedicated GUI.
 
 With this program you can prompt any text and the program will send the text message via telegram with the bot.
 
